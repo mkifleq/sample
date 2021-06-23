@@ -1,5 +1,18 @@
 # Test sample
 
+
+6/23 shared
+
+https://platform.grid.ai/#/runs?script=https://github.com/rlizzo/TuringCLIExample/blob/67323c2b41cc43c02cfab1c59dcd8de3c697f8be/fit.jl&cloud=grid&use_spot&instance=t2.medium&accelerators=1&disk_size=200&framework=julia&script_args=fit.jl --num_samples "[10,100,1000,10000]"
+
+
+prod: 6/23 badge
+
+
+[![Grid](https://img.shields.io/badge/rid_AI-run-78FF96.svg?labelColor=black&logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTEgMTR2MjBhMTQgMTQgMCAwMDE0IDE0aDlWMzYuOEgxMi42VjExaDIyLjV2N2gxMS4yVjE0QTE0IDE0IDAgMDAzMi40IDBIMTVBMTQgMTQgMCAwMDEgMTR6IiBmaWxsPSIjZmZmIi8+PHBhdGggZD0iTTM1LjIgNDhoMTEuMlYyNS41SDIzLjl2MTEuM2gxMS4zVjQ4eiIgZmlsbD0iI2ZmZiIvPjwvc3ZnPg==)](https://platform.grid.ai/#/runs?script=https://github.com/rlizzo/TuringCLIExample/blob/67323c2b41cc43c02cfab1c59dcd8de3c697f8be/fit.jl&cloud=grid&use_spot&instance=t2.medium&accelerators=1&disk_size=200&framework=julia&script_args=fit.jl --num_samples "[10,100,1000,10000]")
+
+
+
 5/19 QA test 
 
 [![Grid](https://img.shields.io/badge/rid_AI-run-78FF96.svg?labelColor=black&logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTEgMTR2MjBhMTQgMTQgMCAwMDE0IDE0aDlWMzYuOEgxMi42VjExaDIyLjV2N2gxMS4yVjE0QTE0IDE0IDAgMDAzMi40IDBIMTVBMTQgMTQgMCAwMDEgMTR6IiBmaWxsPSIjZmZmIi8+PHBhdGggZD0iTTM1LjIgNDhoMTEuMlYyNS41SDIzLjl2MTEuM2gxMS4zVjQ4eiIgZmlsbD0iI2ZmZiIvPjwvc3ZnPg==)](https://platform.grid.ai/#/runs?script=https://github.com/williamFalcon/hello/blob/a3f1add2e958b44ea1318b25d37f8dfbff4d980e/hello.py&cloud=grid&use_spot&instance=t2.medium&accelerators=1&disk_size=200&framework=lightning&script_args=grid%20train%20--grid_name%20hellospot010519%20hello.py%20--number%20'%5B1%2C2%2C3%5D'%20--food_item%20'%5B'%22'%22'hotdog'%22'%22'%2C'%22'%22'pizza'%22'%22'%2C'%22'%22'cake'%22'%22'%5D'%20--grid_use_spot)
